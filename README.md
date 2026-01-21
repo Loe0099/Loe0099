@@ -1,5 +1,5 @@
 # 💫 About Me:
-📋 I am currently working on a website about feelings<br>💻 I am currently learning HTML, CSS and JS<br>🇩🇪 I live in Germany
+📋 I am currently working on a website about feelings<br>💻 I am currently learning JS and Python<br>🇩🇪 I live in Germany
 
 
 # 💻 Tech Stack:
